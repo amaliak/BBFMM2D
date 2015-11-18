@@ -3,6 +3,8 @@
 This is the first public release of the BBFMM2D library.  
 Date: July 24th, 2013
 
+#For Matlab interface of BBFMM2D, see https://github.com/judithyueli/mexBBFMM2D
+
 **Version 3.1 - First external release.**
 
 %% Copyleft 2013: Sivaram Ambikasaran, Ruoxi Wang and Eric Darve         
